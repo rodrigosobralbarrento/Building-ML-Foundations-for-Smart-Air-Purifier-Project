@@ -37,6 +37,23 @@ I plan to transfer these skills into my main **Air Purifier ML Project**, where 
 
 ## ▶️ Example Run
 
+--- Pearson Correlation Coefficients ---
+
+Time: 0.028
+
+Amount: -0.020
+
+Age: 0.006
+
+Location: -0.005
+
+TransactionType: 0.053
+
+JobArea: -0.005
+
+ItemCategory: 0.003
+
+
 === Credit Card Fraud Checker ===
 
 Enter transaction amount ($): 100
@@ -68,7 +85,7 @@ Enter ItemCategory: Clothing
 
 --- Result ---
 
-Legitimate transaction. (Fraud probability: 0.01)
+Legitimate transaction. (Fraud probability: 0.03)
 
 ---
 
