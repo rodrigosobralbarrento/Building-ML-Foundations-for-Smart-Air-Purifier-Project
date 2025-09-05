@@ -54,6 +54,7 @@ JobArea: -0.005
 ItemCategory: 0.003
 
 
+
 === Credit Card Fraud Checker ===
 
 Enter transaction amount ($): 100
@@ -63,9 +64,11 @@ Enter time (seconds since first transaction): 1000
 Enter user age (18-80): 25
 
 
+
 Available options for Location: ['CA', 'FL', 'GA', 'IL', 'MI', 'NC', 'NY', 'OH', 'PA', 'TX']
 
 Enter Location: NY
+
 
 
 Available options for TransactionType: ['In-Store', 'Online']
@@ -73,14 +76,17 @@ Available options for TransactionType: ['In-Store', 'Online']
 Enter TransactionType: Online
 
 
+
 Available options for JobArea: ['Education', 'Engineering', 'Finance', 'Healthcare', 'Hospitality', 'Logistics', 'Retail', 'Tech Support']
 
 Enter JobArea: Education
 
 
+
 Available options for ItemCategory: ['Clothing', 'Electronics', 'Furniture', 'Gas', 'Groceries', 'Pharmacy', 'Restaurants', 'Toys']
 
 Enter ItemCategory: Clothing
+
 
 
 --- Result ---
