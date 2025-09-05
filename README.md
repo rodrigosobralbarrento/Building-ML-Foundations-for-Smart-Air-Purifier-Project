@@ -37,7 +37,7 @@ I plan to transfer these skills into my main **Air Purifier ML Project**, where 
 
 ## ▶️ Example Run
 
-Pearson Correlation Coefficients
+--- Pearson Correlation Coefficients ---
 
 Time: 0.028
 
