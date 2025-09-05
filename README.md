@@ -12,12 +12,10 @@ I plan to transfer these skills into my main **Air Purifier ML Project**, where 
 - Encode categorical variables with **LabelEncoder**.  
 - Train a **Logistic Regression** model for binary classification.  
 - Explore basic **correlations** between features and the fraud label.  
-- Create an **interactive script** where a user enters transaction details and gets a fraud probability prediction.  
-
+- Create an **interactive script** where a user enters transaction details and gets a fraud probability prediction.
+  
 ---
 
-## 📂 Project Structure
----
 ## ⚙️ How It Works
 1. **Load Data**  
    - CSV file is read with pandas.  
