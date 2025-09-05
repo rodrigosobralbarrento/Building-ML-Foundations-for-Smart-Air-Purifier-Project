@@ -53,7 +53,7 @@ JobArea: -0.005
 
 ItemCategory: 0.003
 
-
+  
 === Credit Card Fraud Checker ===
 
 Enter transaction amount ($): 100
